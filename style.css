@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 @layer utilities {
-    * {
-     color:white;
-    }
-    ::selection{
+  *{
+    color: white;
+  }
+  ::selection{
       color: aquamarine;
       /* background-color: beige; */
     }
