@@ -1,6 +1,9 @@
 @layer utilities {
     * {
-     background: #2e2e2e; 
      color:white;
+    }
+    ::selection{
+      color: aquamarine;
+      /* background-color: beige; */
     }
   }
