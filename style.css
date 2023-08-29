@@ -11,7 +11,8 @@
       /* background-color: beige; */
     }
   }
-.onepage{
-  width: 645px;
+.one{
+  /* width: 645px; */
   margin: 0 auto;
+  place-content: center;
 }
