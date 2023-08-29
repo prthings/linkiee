@@ -15,8 +15,8 @@ tailwind.config = {
         clifford: '#da373d',
       },
       width: {
-        '128': '32rem',
-        '100': '26rem',
+        '128': '645px',
+        '100': '456px',
       }
     }
   }
